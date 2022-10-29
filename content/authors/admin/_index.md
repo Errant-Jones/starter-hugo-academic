@@ -46,7 +46,7 @@ education:
 social:
 
   - icon: substack
-    icon_pack: custom
+    icon_pack: brands
     link: https://elijones.substack.com
     label: Subscribe to my newsletter.
     display:
