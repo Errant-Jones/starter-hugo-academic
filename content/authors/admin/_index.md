@@ -46,14 +46,14 @@ education:
 social:
 
   - icon: substack
-    icon_pack: brands
+    icon_pack: custom
     link: https://elijones.substack.com
     label: Subscribe to my newsletter.
     display:
       header: true
   - icon: envelope # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: hello@errantjones.com
+    link: mailto:hello@errantjones.com
 
 
 # Link to a PDF of your resume/CV.
