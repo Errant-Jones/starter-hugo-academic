@@ -1,7 +1,5 @@
 ---
-abstract: Meyer made a career out of breaking and entering. And this job, in a
-  sleeping Central Oregon town, couldn't be any more complicated than the last.
-  So why did he feel so uneasy about it? And why was everything so damn quiet?
+abstract: ""
 slides: ""
 url_pdf: ""
 publication_types:
@@ -25,12 +23,12 @@ projects: []
 image:
   caption: ""
   focal_point: top
-  preview_only: true
+  preview_only: false
   filename: mixtape.jpg
   alt_text: "Cover of Mixtape: 1986 anthology"
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
