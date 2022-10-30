@@ -7,8 +7,8 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelopes-bulk
-    icon_pack: fas
+  - icon: substack
+    icon_pack: sub
     link: https://elijones.substack.com
     label: Subscribe to my newsletter.
     display:
@@ -17,17 +17,17 @@ social:
     icon_pack: fas
     link: mailto:hello@errantjones.com
 organizations: []
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+ #     institution: Stanford University
+#      year: 2012
+#    - course: MEng in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
 superuser: true
 last_name: Jones
 highlight_name: true

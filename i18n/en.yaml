@@ -99,7 +99,7 @@
 # About widget
 
 - id: interests
-  translation: Brief Bio
+  translation: In Brief
 
 - id: education
   translation: Did You Know?
