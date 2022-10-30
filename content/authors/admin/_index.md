@@ -7,15 +7,15 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope-bulk
-    icon_pack: far
+  - icon: envelopes-bulk
+    icon_pack: fas
     link: https://elijones.substack.com
     label: Subscribe to my newsletter.
     display:
       header: true
   - icon: envelope
     icon_pack: fas
-    link: hello@errantjones.com
+    link: mailto:hello@errantjones.com
 organizations: []
 education:
   courses:
@@ -32,7 +32,7 @@ superuser: true
 last_name: Jones
 highlight_name: true
 first_name: Eli
-email: ""
+email: "hello@errantjones.com"
 ---
 
 Eli Jones is a BI Developer and speculative fiction writer. When he's not writing, you can find him shouting at computers, filling 10 x 10 rooms with orcs and pie, and wondering what being old feels like. He lives in the Cascadia Bioregion.

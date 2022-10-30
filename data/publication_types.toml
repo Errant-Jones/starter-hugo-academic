@@ -1,0 +1,11 @@
+# Publication types.
+# Each item in the list corresponds to an item in the language packs.
+types = [ "pub_uncat",
+          "pub_short",
+          "pub_novella",
+          "pub_novelette",
+          "pub_essay",
+          "pub_book"
+        ]
+
+
