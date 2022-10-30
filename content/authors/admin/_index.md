@@ -3,12 +3,12 @@ title: Eli Jones
 role: Speculative Fiction Writer
 bio: Eli Jones is a speculative fiction writer.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Writes science fiction, fantasy, and mystery stories
+  - Visited the Clarion West website in 2021
+  - Practitioner of *Via Negativa*
 social:
   - icon: substack
-    icon_pack: sub
+    icon_pack: custom
     link: https://elijones.substack.com
     label: Subscribe to my newsletter.
     display:
