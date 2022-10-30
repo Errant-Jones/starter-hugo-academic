@@ -7,14 +7,14 @@ interests:
   - Visited the Clarion West website in 2021
   - Practitioner of *Via Negativa*
 social:
-  - icon: substack
-    icon_pack: custom
+  - icon: newspaper
+    icon_pack: far
     link: https://elijones.substack.com
     label: Subscribe to my newsletter.
     display:
       header: true
   - icon: envelope
-    icon_pack: fas
+    icon_pack: far
     link: mailto:hello@errantjones.com
 organizations: []
 #education:
