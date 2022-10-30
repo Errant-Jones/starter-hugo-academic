@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Eli Jones - Writer # Website name
-baseURL: 'https://errantjones.com/' # Website URL
+title: Eli Jones - Overrated Writer # Website name
+baseURL: 'https://getoverrated.com/' # Website URL
 
 ############################
 ## LANGUAGE
