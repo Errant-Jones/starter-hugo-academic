@@ -26,7 +26,7 @@ image:
   preview_only: false
   filename: mixtape.jpg
   alt_text: "Cover of Mixtape: 1986 anthology"
-date: 2013-07-01T00:00:00.000Z
+date: 2022-03-02T01:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
